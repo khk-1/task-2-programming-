@@ -108,3 +108,14 @@ The application successfully:
 - Updates the status instantly.
 - Uses HTML, CSS, JavaScript, PHP, and MySQL.
 
+  ## Screenshots
+
+### Database
+![Database](database.png)
+
+### Users Table
+![Table](table.png)
+
+### Homepage
+![Homepage](homepage.png)
+
